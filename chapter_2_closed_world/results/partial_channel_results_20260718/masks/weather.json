@@ -1,0 +1,33 @@
+{
+  "dataset": "weather",
+  "population_type": "channel",
+  "base_seed": 2021,
+  "dataset_seed": 11881636738641978115,
+  "selection_rule": "uniform_without_replacement_floor_half",
+  "population_size": 21,
+  "selected_count": 10,
+  "selected_indices": [
+    0,
+    1,
+    9,
+    10,
+    12,
+    14,
+    15,
+    18,
+    19,
+    20
+  ],
+  "selected_ids": [
+    "p (mbar)",
+    "T (degC)",
+    "H2OC (mmol/mol)",
+    "rho (g/m**3)",
+    "max. wv (m/s)",
+    "rain (mm)",
+    "raining (s)",
+    "max. PAR (�mol/m�/s)",
+    "Tlog (degC)",
+    "OT"
+  ]
+}

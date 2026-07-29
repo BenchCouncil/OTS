@@ -1,0 +1,20 @@
+{
+  "case": "RR",
+  "model_name": "knn",
+  "seasonal_pattern": "Hourly",
+  "seq_len": 480,
+  "pred_len": 48,
+  "train_reversed": true,
+  "test_reversed": true,
+  "series_count": 414,
+  "train_windows": 135322,
+  "mse": 43829623.660861984,
+  "mae": 1020.7184175278514,
+  "smape": 28.93516343775104,
+  "mase": 7.534591868249075,
+  "owa": 3.775165528465558,
+  "naive_smape": 14.83219803183893,
+  "naive_mase": 1.345583799200641,
+  "seconds": 1.858548582997173,
+  "checkpoint": "<home>/Desktop/project/checkpoints/extra_models_fast/knn_m4_RR_Hourly_s480.npz"
+}

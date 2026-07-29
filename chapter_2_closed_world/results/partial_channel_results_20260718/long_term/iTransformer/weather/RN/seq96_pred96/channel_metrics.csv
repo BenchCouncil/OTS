@@ -1,0 +1,22 @@
+dataset,model,case,seq_len,pred_len,channel_index,channel_name,selected_for_reversal,reversed_train,reversed_eval,mse_normalized,mae_normalized,value_count
+weather,iTransformer,RN,96,96,0,p (mbar),True,True,False,0.3157026171684265,0.3904567360877991,1002624
+weather,iTransformer,RN,96,96,1,T (degC),True,True,False,0.09458515048027039,0.22154442965984344,1002624
+weather,iTransformer,RN,96,96,2,Tpot (K),False,False,False,0.10108337551355362,0.22582580149173737,1002624
+weather,iTransformer,RN,96,96,3,Tdew (degC),False,False,False,0.1095694974064827,0.24019649624824524,1002624
+weather,iTransformer,RN,96,96,4,rh (%),False,False,False,0.30976712703704834,0.41369566321372986,1002624
+weather,iTransformer,RN,96,96,5,VPmax (mbar),False,False,False,0.04824737086892128,0.14917021989822388,1002624
+weather,iTransformer,RN,96,96,6,VPact (mbar),False,False,False,0.0893905982375145,0.20659418404102325,1002624
+weather,iTransformer,RN,96,96,7,VPdef (mbar),False,False,False,0.046323511749506,0.14771780371665955,1002624
+weather,iTransformer,RN,96,96,8,sh (g/kg),False,False,False,0.08936673402786255,0.20582611858844757,1002624
+weather,iTransformer,RN,96,96,9,H2OC (mmol/mol),True,True,False,0.08958057314157486,0.20619580149650574,1002624
+weather,iTransformer,RN,96,96,10,rho (g/m**3),True,True,False,0.1423320174217224,0.26611801981925964,1002624
+weather,iTransformer,RN,96,96,11,wv (m/s),False,False,False,0.0007227631867863238,0.01984073780477047,1002624
+weather,iTransformer,RN,96,96,12,max. wv (m/s),True,True,False,0.5899618268013,0.5611475706100464,1002624
+weather,iTransformer,RN,96,96,13,wd (deg),False,False,False,0.39408451318740845,0.4041328430175781,1002624
+weather,iTransformer,RN,96,96,14,rain (mm),True,True,False,0.053775787353515625,0.05014660954475403,1002624
+weather,iTransformer,RN,96,96,15,raining (s),True,True,False,1.2048460245132446,0.388784259557724,1002624
+weather,iTransformer,RN,96,96,16,SWDR (W/m�),False,False,False,0.07991214096546173,0.1645921915769577,1002624
+weather,iTransformer,RN,96,96,17,PAR (�mol/m�/s),False,False,False,0.07465427368879318,0.16060923039913177,1002624
+weather,iTransformer,RN,96,96,18,max. PAR (�mol/m�/s),True,True,False,0.05638422444462776,0.13747204840183258,1002624
+weather,iTransformer,RN,96,96,19,Tlog (degC),True,True,False,0.08165575563907623,0.21366478502750397,1002624
+weather,iTransformer,RN,96,96,20,OT,True,True,False,0.0010373721597716212,0.022944554686546326,1002624

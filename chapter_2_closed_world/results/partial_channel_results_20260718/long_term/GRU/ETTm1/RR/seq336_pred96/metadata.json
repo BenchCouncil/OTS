@@ -1,0 +1,15 @@
+{
+  "dataset": "ETTm1",
+  "model": "GRU",
+  "case": "RR",
+  "seq_len": 336,
+  "pred_len": 96,
+  "normalization": "TSLib StandardScaler fitted on the original training split",
+  "metric_scale": "normalized",
+  "reversal_mask_path": "/root/autodl-tmp/partial_channel_results/masks/ETTm1.json",
+  "selected_count": 3,
+  "channel_count": 7,
+  "partial_reversal_timestamps": "kept in original chronological order",
+  "aggregate_mse_normalized": 0.5328431725502014,
+  "aggregate_mae_normalized": 0.49430957436561584
+}

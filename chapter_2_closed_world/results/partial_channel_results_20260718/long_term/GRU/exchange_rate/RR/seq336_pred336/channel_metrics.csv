@@ -1,0 +1,9 @@
+dataset,model,case,seq_len,pred_len,channel_index,channel_name,selected_for_reversal,reversed_train,reversed_eval,mse_normalized,mae_normalized,value_count
+exchange_rate,GRU,RR,336,336,0,0,True,True,True,0.567565381526947,0.6047734618186951,397152
+exchange_rate,GRU,RR,336,336,1,1,False,False,False,0.36074647307395935,0.46537715196609497,397152
+exchange_rate,GRU,RR,336,336,2,2,False,False,False,0.6374074220657349,0.6522277593612671,397152
+exchange_rate,GRU,RR,336,336,3,3,True,True,True,0.18810240924358368,0.3510592579841614,397152
+exchange_rate,GRU,RR,336,336,4,4,False,False,False,0.03928104043006897,0.1497858762741089,397152
+exchange_rate,GRU,RR,336,336,5,5,True,True,True,1.0963194370269775,0.8010057210922241,397152
+exchange_rate,GRU,RR,336,336,6,6,True,True,True,0.3588685095310211,0.45594215393066406,397152
+exchange_rate,GRU,RR,336,336,7,OT,False,False,False,0.3887576758861542,0.4881955683231354,397152

@@ -1,0 +1,19 @@
+
+\begin{table*}[t]
+\centering
+\caption{Full results for the real multichannel-context negative control. Relative changes use Target history as the baseline; negative values indicate higher error.}
+\label{tab:natural-context-all}
+\small
+\begin{tabular}{@{}llrrrrr@{}}
+\toprule
+Dataset & Condition & Ridge $\alpha$ & Validation MSE & Test MSE & Test windows & Relative reduction\\
+\midrule
+ETTh2 & Target history & 0.1 & 0.1755 & 0.1279 & 2,785 & 0.0\% \\
+ETTh2 & Observed context & 100.0 & 0.2708 & 0.4913 & 2,785 & -284.1\% \\
+ETTm1 & Target history & 10.0 & 0.0545 & 0.0318 & 4,000 & 0.0\% \\
+ETTm1 & Observed context & 100.0 & 0.0581 & 0.0482 & 4,000 & -51.5\% \\
+weather & Target history & 1.0 & 0.0033 & 0.0057 & 4,000 & 0.0\% \\
+weather & Observed context & 100.0 & 0.0106 & 0.0080 & 4,000 & -40.0\% \\
+\bottomrule
+\end{tabular}
+\end{table*}

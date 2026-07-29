@@ -1,0 +1,20 @@
+{
+  "case": "RR",
+  "dataset": "illness",
+  "seq_len": 336,
+  "pred_len": 60,
+  "features": "M",
+  "train_reversed": true,
+  "test_reversed": true,
+  "channels": 7,
+  "train_windows": 281,
+  "test_windows": 134,
+  "mse": 1.3597399527557572,
+  "mae": 0.7879603423999553,
+  "dlinear_mse": 1.819,
+  "dlinear_mae": 0.917,
+  "mse_ratio_vs_dlinear": 0.7475205897502789,
+  "mae_ratio_vs_dlinear": 0.859280635114455,
+  "seconds": 0.02669441606849432,
+  "checkpoint": "checkpoints/long_input/revin_ols_RR_illness_s336_p60_M.npz"
+}

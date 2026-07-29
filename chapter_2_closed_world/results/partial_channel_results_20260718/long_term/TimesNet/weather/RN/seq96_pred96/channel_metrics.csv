@@ -1,0 +1,22 @@
+dataset,model,case,seq_len,pred_len,channel_index,channel_name,selected_for_reversal,reversed_train,reversed_eval,mse_normalized,mae_normalized,value_count
+weather,TimesNet,RN,96,96,0,p (mbar),True,True,False,0.3213980793952942,0.41454920172691345,1002624
+weather,TimesNet,RN,96,96,1,T (degC),True,True,False,0.1371595710515976,0.281547874212265,1002624
+weather,TimesNet,RN,96,96,2,Tpot (K),False,False,False,0.11980755627155304,0.2538527250289917,1002624
+weather,TimesNet,RN,96,96,3,Tdew (degC),False,False,False,0.11672186851501465,0.2639445960521698,1002624
+weather,TimesNet,RN,96,96,4,rh (%),False,False,False,0.3132261633872986,0.425770103931427,1002624
+weather,TimesNet,RN,96,96,5,VPmax (mbar),False,False,False,0.05657666549086571,0.16854138672351837,1002624
+weather,TimesNet,RN,96,96,6,VPact (mbar),False,False,False,0.09554982930421829,0.2288978099822998,1002624
+weather,TimesNet,RN,96,96,7,VPdef (mbar),False,False,False,0.05409356206655502,0.16728758811950684,1002624
+weather,TimesNet,RN,96,96,8,sh (g/kg),False,False,False,0.10922851413488388,0.24485088884830475,1002624
+weather,TimesNet,RN,96,96,9,H2OC (mmol/mol),True,True,False,0.09864355623722076,0.2311561554670334,1002624
+weather,TimesNet,RN,96,96,10,rho (g/m**3),True,True,False,0.16779406368732452,0.3079693913459778,1002624
+weather,TimesNet,RN,96,96,11,wv (m/s),False,False,False,0.0008029279415495694,0.021581526845693588,1002624
+weather,TimesNet,RN,96,96,12,max. wv (m/s),True,True,False,0.6037505269050598,0.5554629564285278,1002624
+weather,TimesNet,RN,96,96,13,wd (deg),False,False,False,0.4141559898853302,0.418241024017334,1002624
+weather,TimesNet,RN,96,96,14,rain (mm),True,True,False,0.05087227374315262,0.04106577858328819,1002624
+weather,TimesNet,RN,96,96,15,raining (s),True,True,False,1.1478561162948608,0.3571191430091858,1002624
+weather,TimesNet,RN,96,96,16,SWDR (W/m�),False,False,False,0.11355222761631012,0.22309787571430206,1002624
+weather,TimesNet,RN,96,96,17,PAR (�mol/m�/s),False,False,False,0.09711524844169617,0.19993367791175842,1002624
+weather,TimesNet,RN,96,96,18,max. PAR (�mol/m�/s),True,True,False,0.08214028924703598,0.1756785809993744,1002624
+weather,TimesNet,RN,96,96,19,Tlog (degC),True,True,False,0.13206236064434052,0.28260537981987,1002624
+weather,TimesNet,RN,96,96,20,OT,True,True,False,0.0014554430963471532,0.028114022687077522,1002624

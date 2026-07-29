@@ -1,0 +1,2 @@
+case,dataset,seq_len,pred_len,features,train_reversed,test_reversed,channels,train_windows,test_windows,mse,mae,dlinear_mse,dlinear_mae,mse_ratio_vs_dlinear,mae_ratio_vs_dlinear,seconds,checkpoint
+NN,electricity,96,96,M,False,False,321,18221,5165,0.4850055284216553,0.5060950186410632,0.141,0.237,3.4397555207209596,2.1354220195825455,14.150737582938746,<project-root>/checkpoints/extra_smoke_fast/knn_NN_electricity_s96_p96_M.npz

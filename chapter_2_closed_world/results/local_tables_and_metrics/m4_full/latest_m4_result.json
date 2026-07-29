@@ -1,0 +1,12 @@
+{
+  "seasonal_pattern": "Hourly",
+  "seq_len": 480,
+  "pred_len": 48,
+  "series_count": 414,
+  "train_windows": 135322,
+  "mse": 1751767.4054454598,
+  "mae": 266.7962496289264,
+  "smape": 19.569914647993514,
+  "seconds": 1.7268450419651344,
+  "checkpoint": "checkpoints/m4_full/ols_m4_Hourly_s480.npz"
+}

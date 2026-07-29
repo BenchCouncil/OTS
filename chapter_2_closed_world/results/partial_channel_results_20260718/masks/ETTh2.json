@@ -1,0 +1,19 @@
+{
+  "dataset": "ETTh2",
+  "population_type": "channel",
+  "base_seed": 2021,
+  "dataset_seed": 13747577802341133776,
+  "selection_rule": "uniform_without_replacement_floor_half",
+  "population_size": 7,
+  "selected_count": 3,
+  "selected_indices": [
+    0,
+    1,
+    6
+  ],
+  "selected_ids": [
+    "HUFL",
+    "HULL",
+    "OT"
+  ]
+}

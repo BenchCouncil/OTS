@@ -1,0 +1,15 @@
+{
+  "dataset": "ETTm2",
+  "model": "PatchTST",
+  "case": "RN",
+  "seq_len": 336,
+  "pred_len": 336,
+  "normalization": "TSLib StandardScaler fitted on the original training split",
+  "metric_scale": "normalized",
+  "reversal_mask_path": "/root/autodl-tmp/partial_channel_results/masks/ETTm2.json",
+  "selected_count": 3,
+  "channel_count": 7,
+  "partial_reversal_timestamps": "kept in original chronological order",
+  "aggregate_mse_normalized": 0.30152764916419983,
+  "aggregate_mae_normalized": 0.35016363859176636
+}

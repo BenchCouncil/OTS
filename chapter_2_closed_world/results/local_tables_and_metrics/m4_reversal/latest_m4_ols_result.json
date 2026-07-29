@@ -1,0 +1,16 @@
+{
+  "case": "RR",
+  "model_name": "ols",
+  "seasonal_pattern": "Hourly",
+  "seq_len": 480,
+  "pred_len": 48,
+  "train_reversed": true,
+  "test_reversed": true,
+  "series_count": 414,
+  "train_windows": 135322,
+  "mse": 1612791.9924225009,
+  "mae": 337.05235504609743,
+  "smape": 22.804156880931785,
+  "seconds": 1.629226417047903,
+  "checkpoint": "checkpoints/m4_reversal/ols_m4_RR_Hourly_s480.npz"
+}

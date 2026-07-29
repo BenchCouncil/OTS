@@ -1,0 +1,5 @@
+case,dataset,seq_len,pred_len,features,train_reversed,test_reversed,channels,train_windows,test_windows,mse,mae,dlinear_mse,dlinear_mae,mse_ratio_vs_dlinear,mae_ratio_vs_dlinear,seconds,checkpoint
+NN,exchange_rate,96,96,M,False,False,8,5120,1422,0.08742677480781204,0.20661049994542763,0.089,0.208,0.9823233124473263,0.9933197112760944,0.10442954208701849,checkpoints/revin_smoke/revin_ols_NN_exchange_rate_s96_p96_M.npz
+RN,exchange_rate,96,96,M,True,False,8,5120,1422,0.08457264071174893,0.20041598127233348,0.089,0.208,0.950254390019651,0.9635383715016034,0.1038809580495581,checkpoints/revin_smoke/revin_ols_RN_exchange_rate_s96_p96_M.npz
+NR,exchange_rate,96,96,M,False,True,8,5120,1422,0.0914012835243041,0.20724675750649313,0.089,0.208,1.026980713756226,0.9963786418581401,0.09367333399131894,checkpoints/revin_smoke/revin_ols_NR_exchange_rate_s96_p96_M.npz
+RR,exchange_rate,96,96,M,True,True,8,5120,1422,0.08065089167370343,0.19556040832370924,0.089,0.208,0.9061897940865554,0.9401942707870637,0.10448799992445856,checkpoints/revin_smoke/revin_ols_RR_exchange_rate_s96_p96_M.npz

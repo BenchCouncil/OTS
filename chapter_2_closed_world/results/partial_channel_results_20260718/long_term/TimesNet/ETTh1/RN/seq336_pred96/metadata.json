@@ -1,0 +1,15 @@
+{
+  "dataset": "ETTh1",
+  "model": "TimesNet",
+  "case": "RN",
+  "seq_len": 336,
+  "pred_len": 96,
+  "normalization": "TSLib StandardScaler fitted on the original training split",
+  "metric_scale": "normalized",
+  "reversal_mask_path": "/root/autodl-tmp/partial_channel_results/masks/ETTh1.json",
+  "selected_count": 3,
+  "channel_count": 7,
+  "partial_reversal_timestamps": "kept in original chronological order",
+  "aggregate_mse_normalized": 0.5814658403396606,
+  "aggregate_mae_normalized": 0.5432395935058594
+}

@@ -1,0 +1,20 @@
+{
+  "case": "NN",
+  "dataset": "electricity",
+  "seq_len": 96,
+  "pred_len": 96,
+  "features": "M",
+  "train_reversed": false,
+  "test_reversed": false,
+  "channels": 321,
+  "train_windows": 18221,
+  "test_windows": 5165,
+  "mse": 0.4850055284216553,
+  "mae": 0.5060950186410632,
+  "dlinear_mse": 0.141,
+  "dlinear_mae": 0.237,
+  "mse_ratio_vs_dlinear": 3.4397555207209596,
+  "mae_ratio_vs_dlinear": 2.1354220195825455,
+  "seconds": 14.150737582938746,
+  "checkpoint": "<home>/Desktop/project/checkpoints/extra_smoke_fast/knn_NN_electricity_s96_p96_M.npz"
+}

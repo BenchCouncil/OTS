@@ -1,0 +1,20 @@
+{
+  "case": "RN",
+  "dataset": "electricity",
+  "seq_len": 96,
+  "pred_len": 336,
+  "features": "M",
+  "train_reversed": true,
+  "test_reversed": false,
+  "channels": 321,
+  "train_windows": 17981,
+  "test_windows": 4925,
+  "mse": 0.42503781078805014,
+  "mae": 0.46905140259925526,
+  "dlinear_mse": 0.171,
+  "dlinear_mae": 0.265,
+  "mse_ratio_vs_dlinear": 2.4856012326786554,
+  "mae_ratio_vs_dlinear": 1.7700052928273782,
+  "seconds": 34.70269416598603,
+  "checkpoint": "<home>/Desktop/project/checkpoints/extra_models/knn_RN_electricity_s96_p336_M.npz"
+}

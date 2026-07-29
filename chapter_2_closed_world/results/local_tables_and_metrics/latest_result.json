@@ -1,0 +1,17 @@
+{
+  "dataset": "ETTm1",
+  "seq_len": 96,
+  "pred_len": 96,
+  "features": "M",
+  "channels": 7,
+  "train_windows": 34369,
+  "test_windows": 11425,
+  "mse": 0.34451137496119116,
+  "mae": 0.37139991128091465,
+  "dlinear_mse": 0.299,
+  "dlinear_mae": 0.343,
+  "mse_ratio_vs_dlinear": 1.1522119563919437,
+  "mae_ratio_vs_dlinear": 1.0827985751630165,
+  "seconds": 0.1762597500346601,
+  "checkpoint": "checkpoints/ols_ETTm1_s96_p96_M.npz"
+}

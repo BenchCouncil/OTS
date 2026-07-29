@@ -1,0 +1,19 @@
+{
+  "dataset": "ETTm2",
+  "population_type": "channel",
+  "base_seed": 2021,
+  "dataset_seed": 16551842786810995508,
+  "selection_rule": "uniform_without_replacement_floor_half",
+  "population_size": 7,
+  "selected_count": 3,
+  "selected_indices": [
+    0,
+    2,
+    4
+  ],
+  "selected_ids": [
+    "HUFL",
+    "MUFL",
+    "LUFL"
+  ]
+}

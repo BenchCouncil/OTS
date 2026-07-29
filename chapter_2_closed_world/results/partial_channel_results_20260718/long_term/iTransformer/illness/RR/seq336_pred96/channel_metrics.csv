@@ -1,0 +1,8 @@
+dataset,model,case,seq_len,pred_len,channel_index,channel_name,selected_for_reversal,reversed_train,reversed_eval,mse_normalized,mae_normalized,value_count
+illness,iTransformer,RR,336,96,0,% WEIGHTED ILI,True,True,True,0.6874759793281555,0.6320170760154724,9408
+illness,iTransformer,RR,336,96,1,%UNWEIGHTED ILI,False,False,False,2.0303947925567627,0.9901617169380188,9408
+illness,iTransformer,RR,336,96,2,AGE 0-4,True,True,True,1.0334715843200684,0.805560290813446,9408
+illness,iTransformer,RR,336,96,3,AGE 5-24,False,False,False,5.221170902252197,1.428438425064087,9408
+illness,iTransformer,RR,336,96,4,ILITOTAL,True,True,True,1.5006428956985474,0.9825204610824585,9408
+illness,iTransformer,RR,336,96,5,NUM. OF PROVIDERS,False,False,False,2.605386257171631,1.4408107995986938,9408
+illness,iTransformer,RR,336,96,6,OT,False,False,False,3.6612062454223633,1.7140752077102661,9408

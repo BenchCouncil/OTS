@@ -1,0 +1,17 @@
+{
+  "dataset": "illness",
+  "seq_len": 104,
+  "pred_len": 60,
+  "features": "M",
+  "channels": 7,
+  "train_windows": 513,
+  "test_windows": 134,
+  "mse": 2.385154406727298,
+  "mae": 1.1037811236802175,
+  "dlinear_mse": 1.819,
+  "dlinear_mae": 0.917,
+  "mse_ratio_vs_dlinear": 1.3112448635114338,
+  "mae_ratio_vs_dlinear": 1.2036871577755917,
+  "seconds": 0.004666290944442153,
+  "checkpoint": "checkpoints/full/ols_illness_s104_p60_M.npz"
+}

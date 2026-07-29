@@ -1,0 +1,15 @@
+{
+  "dataset": "weather",
+  "model": "PatchTST",
+  "case": "NN",
+  "seq_len": 96,
+  "pred_len": 336,
+  "normalization": "TSLib StandardScaler fitted on the original training split",
+  "metric_scale": "normalized",
+  "reversal_mask_path": "/root/autodl-tmp/partial_channel_results/masks/weather.json",
+  "selected_count": 10,
+  "channel_count": 21,
+  "partial_reversal_timestamps": "kept in original chronological order",
+  "aggregate_mse_normalized": 0.2795942723751068,
+  "aggregate_mae_normalized": 0.2993055284023285
+}

@@ -1,0 +1,43 @@
+{
+  "status": "complete",
+  "expected_result_files": 600,
+  "valid_result_files": 600,
+  "present_result_files": 600,
+  "missing_count": 0,
+  "invalid_count": 0,
+  "missing": [],
+  "invalid": [],
+  "models": [
+    "DLinear",
+    "iTransformer",
+    "PatchTST",
+    "TimesNet",
+    "GRU"
+  ],
+  "datasets": [
+    "ETTh1",
+    "ETTh2",
+    "ETTm1",
+    "ETTm2",
+    "electricity",
+    "exchange_rate",
+    "weather",
+    "illness"
+  ],
+  "cases": [
+    "NN",
+    "RN",
+    "NR",
+    "RR"
+  ],
+  "sequence_lengths": [
+    96,
+    336
+  ],
+  "prediction_lengths": [
+    96,
+    336
+  ],
+  "illness_note": "pred_len=336 is excluded, matching the existing experiment grid",
+  "metric_scale": "TSLib normalized scale"
+}

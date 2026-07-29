@@ -1,0 +1,15 @@
+{
+  "dataset": "electricity",
+  "model": "PatchTST",
+  "case": "RR",
+  "seq_len": 96,
+  "pred_len": 96,
+  "normalization": "TSLib StandardScaler fitted on the original training split",
+  "metric_scale": "normalized",
+  "reversal_mask_path": "/root/autodl-tmp/partial_channel_results/masks/electricity.json",
+  "selected_count": 160,
+  "channel_count": 321,
+  "partial_reversal_timestamps": "kept in original chronological order",
+  "aggregate_mse_normalized": 0.18599165976047516,
+  "aggregate_mae_normalized": 0.27662697434425354
+}

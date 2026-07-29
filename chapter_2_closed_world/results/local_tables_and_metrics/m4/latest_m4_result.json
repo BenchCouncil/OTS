@@ -1,0 +1,12 @@
+{
+  "seasonal_pattern": "Yearly",
+  "seq_len": 9,
+  "pred_len": 6,
+  "series_count": 23000,
+  "train_windows": 398693,
+  "mse": 3423864.6995448866,
+  "mae": 900.523193442335,
+  "smape": 15.898203106889541,
+  "seconds": 1.3624437919352204,
+  "checkpoint": "checkpoints/m4/ols_m4_Yearly_s9.npz"
+}

@@ -1,0 +1,2 @@
+case,dataset,seq_len,pred_len,features,train_reversed,test_reversed,channels,train_windows,test_windows,mse,mae,dlinear_mse,dlinear_mae,mse_ratio_vs_dlinear,mae_ratio_vs_dlinear,seconds,checkpoint
+NN,ETTh1,96,96,M,False,False,7,8449,2785,0.38147959086488936,0.39296687104207106,0.375,0.399,1.0172789089730383,0.9848793760452909,0.06419329205527902,<project-root>/checkpoints/extra_smoke/ridge_NN_ETTh1_s96_p96_M.npz

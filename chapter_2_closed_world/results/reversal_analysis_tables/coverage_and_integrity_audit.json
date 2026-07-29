@@ -1,0 +1,94 @@
+{
+  "server_all_metric_files": 1264,
+  "formal_fixed_lr_rows": 827,
+  "formal_complete_four_case_cells": 206,
+  "formal_coverage_by_model_case": {
+    "NN": {
+      "DLinear": 30,
+      "GRU": 30,
+      "PatchTST": 30,
+      "TimeFilter": 27,
+      "TimeMixer": 30,
+      "TimesNet": 30,
+      "iTransformer": 30
+    },
+    "NR": {
+      "DLinear": 30,
+      "GRU": 30,
+      "PatchTST": 30,
+      "TimeFilter": 27,
+      "TimeMixer": 30,
+      "TimesNet": 30,
+      "iTransformer": 30
+    },
+    "RN": {
+      "DLinear": 30,
+      "GRU": 30,
+      "PatchTST": 30,
+      "TimeFilter": 27,
+      "TimeMixer": 30,
+      "TimesNet": 30,
+      "iTransformer": 30
+    },
+    "RR": {
+      "DLinear": 30,
+      "GRU": 30,
+      "PatchTST": 30,
+      "TimeFilter": 26,
+      "TimeMixer": 30,
+      "TimesNet": 30,
+      "iTransformer": 30
+    }
+  },
+  "m4_forecast_files": 168,
+  "m4_unique_forecast_hashes": 120,
+  "m4_NN_NR_exact_pairs": 18,
+  "m4_RN_RR_exact_pairs": 30,
+  "m4_pair_count_each": 42,
+  "ols_ridge_max_abs_mse_difference": 0.0005056185188130335,
+  "learning_rate_complete_cells": 283,
+  "learning_rate_multi_lr_base_cells": 16,
+  "local_tsl": {
+    "local_metric_files": 4,
+    "matched_server_dirs": 4,
+    "exact_metric_matches": 4,
+    "local_rows": [
+      {
+        "model": "DLinear",
+        "dataset": "exchange_rate",
+        "case": "NR",
+        "seq_len": 96,
+        "pred_len": 96,
+        "mse": 0.1461036503314972,
+        "mae": 0.2779037356376648
+      },
+      {
+        "model": "GRU",
+        "dataset": "exchange_rate",
+        "case": "NN",
+        "seq_len": 96,
+        "pred_len": 96,
+        "mse": 0.12218999117612839,
+        "mae": 0.24566201865673065
+      },
+      {
+        "model": "DLinear",
+        "dataset": "exchange_rate",
+        "case": "NN",
+        "seq_len": 96,
+        "pred_len": 96,
+        "mse": 0.10484720021486282,
+        "mae": 0.24323740601539612
+      },
+      {
+        "model": "DLinear",
+        "dataset": "exchange_rate",
+        "case": "RN",
+        "seq_len": 96,
+        "pred_len": 96,
+        "mse": 0.10507099330425262,
+        "mae": 0.24406883120536804
+      }
+    ]
+  }
+}

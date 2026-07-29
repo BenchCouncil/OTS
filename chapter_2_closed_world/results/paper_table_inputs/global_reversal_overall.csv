@@ -1,0 +1,2 @@
+n_cells,RN_over_NN_gmean,NR_over_NN_gmean,RR_over_NN_gmean,RR_better_than_NN_fraction,RR_within_5pct_fraction,RR_within_10pct_fraction,interaction_gmean,abs_log_interaction_median
+206,1.1041309449213073,1.1129050355285528,1.0239609660159312,0.6359223300970874,0.6116504854368932,0.8058252427184466,0.8333063900440582,0.037407350654575705

@@ -1,0 +1,49 @@
+{
+  "datasets": [
+    "ETTm1",
+    "weather",
+    "ETTh2",
+    "ETTh1",
+    "ETTm2",
+    "exchange_rate",
+    "electricity"
+  ],
+  "seq_len": 96,
+  "pred_len": 96,
+  "seeds": 10,
+  "bootstrap_draws": 2000,
+  "target": "OT (last numeric column after date)",
+  "normalization": "per-channel training-split mean and standard deviation",
+  "planned_information_semantics": {
+    "observable": [
+      "scheduled-plan flag",
+      "plan type",
+      "planned response direction",
+      "coarse strength class",
+      "coarse timing class",
+      "source confidence and missingness"
+    ],
+    "latent": [
+      "execution success",
+      "realized response type",
+      "realized sign",
+      "exact amplitude",
+      "exact onset",
+      "exact duration",
+      "response noise"
+    ]
+  },
+  "audit": {
+    "passed": true,
+    "checks": {
+      "planned_unique_rows": true,
+      "planned_conditions_complete": true,
+      "probability_rows_complete": true,
+      "direction_rows_complete": true,
+      "context_rows_complete": true,
+      "crossed_bootstrap_rows_complete": true,
+      "seed_level_ci_rows_complete": true,
+      "all_metrics_finite": true
+    }
+  }
+}

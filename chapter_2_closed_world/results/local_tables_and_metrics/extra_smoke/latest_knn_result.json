@@ -1,0 +1,20 @@
+{
+  "case": "NN",
+  "dataset": "ETTh1",
+  "seq_len": 96,
+  "pred_len": 96,
+  "features": "M",
+  "train_reversed": false,
+  "test_reversed": false,
+  "channels": 7,
+  "train_windows": 8449,
+  "test_windows": 2785,
+  "mse": 0.6143787676569107,
+  "mae": 0.5270452575690983,
+  "dlinear_mse": 0.375,
+  "dlinear_mae": 0.399,
+  "mse_ratio_vs_dlinear": 1.6383433804184284,
+  "mae_ratio_vs_dlinear": 1.3209154325040056,
+  "seconds": 0.14133208384737372,
+  "checkpoint": "<home>/Desktop/project/checkpoints/extra_smoke/knn_NN_ETTh1_s96_p96_M.npz"
+}

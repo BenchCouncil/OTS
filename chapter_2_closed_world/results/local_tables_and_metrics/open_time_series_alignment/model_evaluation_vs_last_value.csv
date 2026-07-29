@@ -1,0 +1,3 @@
+model,base_model,family,output_transformation,n_conditions,mu_log_mse_relative_to_last_value,sigma_log_mse_relative_to_last_value,median_skill_vs_last_value,median_log_mse_relative_to_last_value,mean_mse,median_mse,best_rate,mean_rank
+ols,dlinear_ols,linear,raw,144,-0.8102153855122558,0.7796828091305926,0.6381045231727078,-1.016412426864851,0.546973856612889,0.4158317211471662,0.7152777777777778,1.3888888888888888
+revin_ols,dlinear_ols,linear,revin_current_no_floor,144,-0.46278360447780226,0.9854547400475675,0.2192656309230525,-0.24756419972709953,0.8388270197343265,0.6176243773757393,0.14583333333333334,2.1666666666666665

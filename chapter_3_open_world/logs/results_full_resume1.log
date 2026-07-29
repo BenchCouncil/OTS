@@ -1,0 +1,236 @@
+nohup: ignoring input
+[1/117] START ETTh2__gru64__info0__seed0
+[1/117] DONE  ETTh2__gru64__info0__seed0 mse=0.474943 seconds=0.0
+[2/117] START ETTh2__gru64__info0__seed1
+[2/117] DONE  ETTh2__gru64__info0__seed1 mse=0.499727 seconds=0.0
+[3/117] START ETTh2__gru64__info0__seed2
+[3/117] DONE  ETTh2__gru64__info0__seed2 mse=0.479555 seconds=0.0
+[4/117] START ETTh2__gru64__info100__seed0
+[4/117] DONE  ETTh2__gru64__info100__seed0 mse=0.260853 seconds=0.0
+[5/117] START ETTh2__gru64__info100__seed1
+[5/117] DONE  ETTh2__gru64__info100__seed1 mse=0.319387 seconds=0.0
+[6/117] START ETTh2__gru64__info100__seed2
+[6/117] DONE  ETTh2__gru64__info100__seed2 mse=0.283809 seconds=0.0
+[7/117] START ETTh2__mlp128__info0__seed0
+[7/117] DONE  ETTh2__mlp128__info0__seed0 mse=0.433141 seconds=0.0
+[8/117] START ETTh2__mlp128__info0__seed1
+[8/117] DONE  ETTh2__mlp128__info0__seed1 mse=0.479255 seconds=0.0
+[9/117] START ETTh2__mlp128__info0__seed2
+[9/117] DONE  ETTh2__mlp128__info0__seed2 mse=0.399994 seconds=0.0
+[10/117] START ETTh2__mlp128__info100__seed0
+[10/117] DONE  ETTh2__mlp128__info100__seed0 mse=0.247688 seconds=0.0
+[11/117] START ETTh2__mlp128__info100__seed1
+[11/117] DONE  ETTh2__mlp128__info100__seed1 mse=0.210000 seconds=0.0
+[12/117] START ETTh2__mlp128__info100__seed2
+[12/117] DONE  ETTh2__mlp128__info100__seed2 mse=0.336533 seconds=0.0
+[13/117] START ETTh2__mlp128__info50__seed0
+[13/117] DONE  ETTh2__mlp128__info50__seed0 mse=0.285115 seconds=0.0
+[14/117] START ETTh2__mlp128__info50__seed1
+[14/117] DONE  ETTh2__mlp128__info50__seed1 mse=0.307863 seconds=0.0
+[15/117] START ETTh2__mlp128__info50__seed2
+[15/117] DONE  ETTh2__mlp128__info50__seed2 mse=0.307999 seconds=0.0
+[16/117] START ETTh2__mlp128__placebo__seed0
+[16/117] DONE  ETTh2__mlp128__placebo__seed0 mse=0.489763 seconds=0.0
+[17/117] START ETTh2__mlp128__placebo__seed1
+[17/117] DONE  ETTh2__mlp128__placebo__seed1 mse=0.460834 seconds=0.0
+[18/117] START ETTh2__mlp128__placebo__seed2
+[18/117] DONE  ETTh2__mlp128__placebo__seed2 mse=0.526244 seconds=0.0
+[19/117] START ETTh2__mlp128__shuffled__seed0
+[19/117] DONE  ETTh2__mlp128__shuffled__seed0 mse=0.433178 seconds=0.0
+[20/117] START ETTh2__mlp128__shuffled__seed1
+[20/117] DONE  ETTh2__mlp128__shuffled__seed1 mse=0.474578 seconds=0.0
+[21/117] START ETTh2__mlp128__shuffled__seed2
+[21/117] DONE  ETTh2__mlp128__shuffled__seed2 mse=0.445364 seconds=0.0
+[22/117] START ETTh2__mlp32__info0__seed0
+[22/117] DONE  ETTh2__mlp32__info0__seed0 mse=0.439268 seconds=0.0
+[23/117] START ETTh2__mlp32__info0__seed1
+[23/117] DONE  ETTh2__mlp32__info0__seed1 mse=0.446512 seconds=0.0
+[24/117] START ETTh2__mlp32__info0__seed2
+[24/117] DONE  ETTh2__mlp32__info0__seed2 mse=0.418869 seconds=0.0
+[25/117] START ETTh2__mlp32__info100__seed0
+[25/117] DONE  ETTh2__mlp32__info100__seed0 mse=0.225028 seconds=0.0
+[26/117] START ETTh2__mlp32__info100__seed1
+[26/117] DONE  ETTh2__mlp32__info100__seed1 mse=0.219494 seconds=0.0
+[27/117] START ETTh2__mlp32__info100__seed2
+[27/117] DONE  ETTh2__mlp32__info100__seed2 mse=0.244531 seconds=0.0
+[28/117] START ETTh2__mlp32__info50__seed0
+[28/117] DONE  ETTh2__mlp32__info50__seed0 mse=0.355932 seconds=0.0
+[29/117] START ETTh2__mlp32__info50__seed1
+[29/117] DONE  ETTh2__mlp32__info50__seed1 mse=0.392684 seconds=0.0
+[30/117] START ETTh2__mlp32__info50__seed2
+[30/117] DONE  ETTh2__mlp32__info50__seed2 mse=0.362055 seconds=0.0
+[31/117] START ETTh2__mlp512__info0__seed0
+[31/117] DONE  ETTh2__mlp512__info0__seed0 mse=0.379035 seconds=0.0
+[32/117] START ETTh2__mlp512__info0__seed1
+[32/117] DONE  ETTh2__mlp512__info0__seed1 mse=0.471140 seconds=0.0
+[33/117] START ETTh2__mlp512__info0__seed2
+[33/117] DONE  ETTh2__mlp512__info0__seed2 mse=0.517981 seconds=0.0
+[34/117] START ETTh2__mlp512__info100__seed0
+[34/117] DONE  ETTh2__mlp512__info100__seed0 mse=0.176080 seconds=0.0
+[35/117] START ETTh2__mlp512__info100__seed1
+[35/117] DONE  ETTh2__mlp512__info100__seed1 mse=0.182074 seconds=0.0
+[36/117] START ETTh2__mlp512__info100__seed2
+[36/117] DONE  ETTh2__mlp512__info100__seed2 mse=0.193881 seconds=0.0
+[37/117] START ETTh2__mlp512__info50__seed0
+[37/117] DONE  ETTh2__mlp512__info50__seed0 mse=0.414797 seconds=0.0
+[38/117] START ETTh2__mlp512__info50__seed1
+[38/117] DONE  ETTh2__mlp512__info50__seed1 mse=0.321098 seconds=0.0
+[39/117] START ETTh2__mlp512__info50__seed2
+[39/117] DONE  ETTh2__mlp512__info50__seed2 mse=0.279201 seconds=0.0
+[40/117] START ETTm1__gru64__info0__seed0
+[40/117] DONE  ETTm1__gru64__info0__seed0 mse=0.282797 seconds=0.0
+[41/117] START ETTm1__gru64__info0__seed1
+[41/117] DONE  ETTm1__gru64__info0__seed1 mse=0.294806 seconds=0.0
+[42/117] START ETTm1__gru64__info0__seed2
+[42/117] DONE  ETTm1__gru64__info0__seed2 mse=0.282126 seconds=0.0
+[43/117] START ETTm1__gru64__info100__seed0
+[43/117] DONE  ETTm1__gru64__info100__seed0 mse=0.081804 seconds=0.0
+[44/117] START ETTm1__gru64__info100__seed1
+[44/117] DONE  ETTm1__gru64__info100__seed1 mse=0.096516 seconds=0.0
+[45/117] START ETTm1__gru64__info100__seed2
+[45/117] DONE  ETTm1__gru64__info100__seed2 mse=0.075031 seconds=0.0
+[46/117] START ETTm1__mlp128__info0__seed0
+[46/117] DONE  ETTm1__mlp128__info0__seed0 mse=0.307967 seconds=0.0
+[47/117] START ETTm1__mlp128__info0__seed1
+[47/117] DONE  ETTm1__mlp128__info0__seed1 mse=0.321562 seconds=0.0
+[48/117] START ETTm1__mlp128__info0__seed2
+[48/117] DONE  ETTm1__mlp128__info0__seed2 mse=0.297247 seconds=0.0
+[49/117] START ETTm1__mlp128__info100__seed0
+[49/117] DONE  ETTm1__mlp128__info100__seed0 mse=0.122174 seconds=0.0
+[50/117] START ETTm1__mlp128__info100__seed1
+[50/117] DONE  ETTm1__mlp128__info100__seed1 mse=0.080850 seconds=0.0
+[51/117] START ETTm1__mlp128__info100__seed2
+[51/117] DONE  ETTm1__mlp128__info100__seed2 mse=0.091317 seconds=0.0
+[52/117] START ETTm1__mlp128__info50__seed0
+[52/117] DONE  ETTm1__mlp128__info50__seed0 mse=0.210257 seconds=0.0
+[53/117] START ETTm1__mlp128__info50__seed1
+[53/117] DONE  ETTm1__mlp128__info50__seed1 mse=0.199838 seconds=0.0
+[54/117] START ETTm1__mlp128__info50__seed2
+[54/117] DONE  ETTm1__mlp128__info50__seed2 mse=0.197352 seconds=0.0
+[55/117] START ETTm1__mlp128__placebo__seed0
+[55/117] DONE  ETTm1__mlp128__placebo__seed0 mse=0.315962 seconds=0.0
+[56/117] START ETTm1__mlp128__placebo__seed1
+[56/117] DONE  ETTm1__mlp128__placebo__seed1 mse=0.281022 seconds=0.0
+[57/117] START ETTm1__mlp128__placebo__seed2
+[57/117] DONE  ETTm1__mlp128__placebo__seed2 mse=0.354877 seconds=0.0
+[58/117] START ETTm1__mlp128__shuffled__seed0
+[58/117] DONE  ETTm1__mlp128__shuffled__seed0 mse=0.319930 seconds=0.0
+[59/117] START ETTm1__mlp128__shuffled__seed1
+[59/117] DONE  ETTm1__mlp128__shuffled__seed1 mse=0.300794 seconds=0.0
+[60/117] START ETTm1__mlp128__shuffled__seed2
+[60/117] DONE  ETTm1__mlp128__shuffled__seed2 mse=0.319993 seconds=0.0
+[61/117] START ETTm1__mlp32__info0__seed0
+[61/117] DONE  ETTm1__mlp32__info0__seed0 mse=0.349123 seconds=0.0
+[62/117] START ETTm1__mlp32__info0__seed1
+[62/117] DONE  ETTm1__mlp32__info0__seed1 mse=0.343038 seconds=0.0
+[63/117] START ETTm1__mlp32__info0__seed2
+[63/117] DONE  ETTm1__mlp32__info0__seed2 mse=0.338330 seconds=0.0
+[64/117] START ETTm1__mlp32__info100__seed0
+[64/117] DONE  ETTm1__mlp32__info100__seed0 mse=0.114316 seconds=0.0
+[65/117] START ETTm1__mlp32__info100__seed1
+[65/117] DONE  ETTm1__mlp32__info100__seed1 mse=0.133459 seconds=0.0
+[66/117] START ETTm1__mlp32__info100__seed2
+[66/117] DONE  ETTm1__mlp32__info100__seed2 mse=0.106401 seconds=0.0
+[67/117] START ETTm1__mlp32__info50__seed0
+[67/117] DONE  ETTm1__mlp32__info50__seed0 mse=0.217003 seconds=0.0
+[68/117] START ETTm1__mlp32__info50__seed1
+[68/117] DONE  ETTm1__mlp32__info50__seed1 mse=0.242817 seconds=0.0
+[69/117] START ETTm1__mlp32__info50__seed2
+[69/117] DONE  ETTm1__mlp32__info50__seed2 mse=0.237948 seconds=0.0
+[70/117] START ETTm1__mlp512__info0__seed0
+[70/117] DONE  ETTm1__mlp512__info0__seed0 mse=0.313727 seconds=0.0
+[71/117] START ETTm1__mlp512__info0__seed1
+[71/117] DONE  ETTm1__mlp512__info0__seed1 mse=0.318331 seconds=0.0
+[72/117] START ETTm1__mlp512__info0__seed2
+[72/117] DONE  ETTm1__mlp512__info0__seed2 mse=0.290310 seconds=0.0
+[73/117] START ETTm1__mlp512__info100__seed0
+[73/117] DONE  ETTm1__mlp512__info100__seed0 mse=0.124566 seconds=0.0
+[74/117] START ETTm1__mlp512__info100__seed1
+[74/117] DONE  ETTm1__mlp512__info100__seed1 mse=0.069331 seconds=0.0
+[75/117] START ETTm1__mlp512__info100__seed2
+[75/117] DONE  ETTm1__mlp512__info100__seed2 mse=0.120722 seconds=0.0
+[76/117] START ETTm1__mlp512__info50__seed0
+[76/117] DONE  ETTm1__mlp512__info50__seed0 mse=0.198207 seconds=0.0
+[77/117] START ETTm1__mlp512__info50__seed1
+[77/117] DONE  ETTm1__mlp512__info50__seed1 mse=0.187111 seconds=0.0
+[78/117] START ETTm1__mlp512__info50__seed2
+[78/117] DONE  ETTm1__mlp512__info50__seed2 mse=0.262862 seconds=0.0
+[79/117] START weather__gru64__info0__seed0
+[79/117] DONE  weather__gru64__info0__seed0 mse=0.228079 seconds=11.7
+[80/117] START weather__gru64__info0__seed1
+[80/117] DONE  weather__gru64__info0__seed1 mse=0.228303 seconds=6.9
+[81/117] START weather__gru64__info0__seed2
+[81/117] DONE  weather__gru64__info0__seed2 mse=0.228316 seconds=10.5
+[82/117] START weather__gru64__info100__seed0
+[82/117] DONE  weather__gru64__info100__seed0 mse=0.033899 seconds=22.4
+[83/117] START weather__gru64__info100__seed1
+[83/117] DONE  weather__gru64__info100__seed1 mse=0.031316 seconds=21.4
+[84/117] START weather__gru64__info100__seed2
+[84/117] DONE  weather__gru64__info100__seed2 mse=0.032822 seconds=21.6
+[85/117] START weather__mlp128__info0__seed0
+[85/117] DONE  weather__mlp128__info0__seed0 mse=0.229026 seconds=5.4
+[86/117] START weather__mlp128__info0__seed1
+[86/117] DONE  weather__mlp128__info0__seed1 mse=0.229164 seconds=3.9
+[87/117] START weather__mlp128__info0__seed2
+[87/117] DONE  weather__mlp128__info0__seed2 mse=0.227105 seconds=9.3
+[88/117] START weather__mlp128__info100__seed0
+[88/117] DONE  weather__mlp128__info100__seed0 mse=0.019721 seconds=20.1
+[89/117] START weather__mlp128__info100__seed1
+[89/117] DONE  weather__mlp128__info100__seed1 mse=0.020043 seconds=18.0
+[90/117] START weather__mlp128__info100__seed2
+[90/117] DONE  weather__mlp128__info100__seed2 mse=0.023833 seconds=13.5
+[91/117] START weather__mlp128__info50__seed0
+[91/117] DONE  weather__mlp128__info50__seed0 mse=0.120796 seconds=13.8
+[92/117] START weather__mlp128__info50__seed1
+[92/117] DONE  weather__mlp128__info50__seed1 mse=0.120530 seconds=14.8
+[93/117] START weather__mlp128__info50__seed2
+[93/117] DONE  weather__mlp128__info50__seed2 mse=0.123044 seconds=14.0
+[94/117] START weather__mlp128__placebo__seed0
+[94/117] DONE  weather__mlp128__placebo__seed0 mse=0.229798 seconds=4.2
+[95/117] START weather__mlp128__placebo__seed1
+[95/117] DONE  weather__mlp128__placebo__seed1 mse=0.228599 seconds=7.4
+[96/117] START weather__mlp128__placebo__seed2
+[96/117] DONE  weather__mlp128__placebo__seed2 mse=0.229270 seconds=4.3
+[97/117] START weather__mlp128__shuffled__seed0
+[97/117] DONE  weather__mlp128__shuffled__seed0 mse=0.228536 seconds=8.1
+[98/117] START weather__mlp128__shuffled__seed1
+[98/117] DONE  weather__mlp128__shuffled__seed1 mse=0.226304 seconds=20.3
+[99/117] START weather__mlp128__shuffled__seed2
+[99/117] DONE  weather__mlp128__shuffled__seed2 mse=0.228084 seconds=6.9
+[100/117] START weather__mlp32__info0__seed0
+[100/117] DONE  weather__mlp32__info0__seed0 mse=0.228720 seconds=5.5
+[101/117] START weather__mlp32__info0__seed1
+[101/117] DONE  weather__mlp32__info0__seed1 mse=0.227789 seconds=7.0
+[102/117] START weather__mlp32__info0__seed2
+[102/117] DONE  weather__mlp32__info0__seed2 mse=0.228194 seconds=7.9
+[103/117] START weather__mlp32__info100__seed0
+[103/117] DONE  weather__mlp32__info100__seed0 mse=0.023706 seconds=20.1
+[104/117] START weather__mlp32__info100__seed1
+[104/117] DONE  weather__mlp32__info100__seed1 mse=0.024361 seconds=20.2
+[105/117] START weather__mlp32__info100__seed2
+[105/117] DONE  weather__mlp32__info100__seed2 mse=0.026871 seconds=20.1
+[106/117] START weather__mlp32__info50__seed0
+[106/117] DONE  weather__mlp32__info50__seed0 mse=0.122415 seconds=18.3
+[107/117] START weather__mlp32__info50__seed1
+[107/117] DONE  weather__mlp32__info50__seed1 mse=0.121196 seconds=18.0
+[108/117] START weather__mlp32__info50__seed2
+[108/117] DONE  weather__mlp32__info50__seed2 mse=0.123572 seconds=18.3
+[109/117] START weather__mlp512__info0__seed0
+[109/117] DONE  weather__mlp512__info0__seed0 mse=0.228667 seconds=4.0
+[110/117] START weather__mlp512__info0__seed1
+[110/117] DONE  weather__mlp512__info0__seed1 mse=0.225489 seconds=8.6
+[111/117] START weather__mlp512__info0__seed2
+[111/117] DONE  weather__mlp512__info0__seed2 mse=0.228120 seconds=4.7
+[112/117] START weather__mlp512__info100__seed0
+[112/117] DONE  weather__mlp512__info100__seed0 mse=0.015035 seconds=18.1
+[113/117] START weather__mlp512__info100__seed1
+[113/117] DONE  weather__mlp512__info100__seed1 mse=0.015408 seconds=17.3
+[114/117] START weather__mlp512__info100__seed2
+[114/117] DONE  weather__mlp512__info100__seed2 mse=0.015882 seconds=16.0
+[115/117] START weather__mlp512__info50__seed0
+[115/117] DONE  weather__mlp512__info50__seed0 mse=0.120181 seconds=10.2
+[116/117] START weather__mlp512__info50__seed1
+[116/117] DONE  weather__mlp512__info50__seed1 mse=0.117395 seconds=15.4
+[117/117] START weather__mlp512__info50__seed2
+[117/117] DONE  weather__mlp512__info50__seed2 mse=0.122482 seconds=8.4
+COMPLETED 117 runs

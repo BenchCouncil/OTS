@@ -1,0 +1,4 @@
+family,raw_rows,models,cases
+deep_ltsf,1033,"DLinear,GRU,PatchTST,TimeFilter,TimeMixer,TimesNet,iTransformer","NN,NR,RN,RR"
+shallow_ltsf,368,"KNN,OLS,RevIN-OLS,Ridge","NN,NR,RN,RR"
+deep_m4_official,168,"DLinear,GRU,PatchTST,TimeFilter,TimeMixer,TimesNet,iTransformer","NN,NR,RN,RR"

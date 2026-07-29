@@ -1,0 +1,35 @@
+
+\begin{table*}[t]
+\centering
+\caption{Full condition summary for non-oracle plan experiments. MSE is reported as the mean $\pm$ standard deviation over ten world seeds; other losses are seed means. The latent oracle is an upper bound and is not a deployable input.}
+\label{tab:planned-all-conditions}
+\scriptsize
+\setlength{\tabcolsep}{3.2pt}
+\begin{tabular}{@{}llrrrrrrr@{}}
+\toprule
+Dataset & Condition & Seed & Test MSE & Residual MSE & No-event MSE & Event MSE & Separation MSE & Windows/seed\\
+\midrule
+ETTh2 & History & 10 & 0.2820 $\pm$ 0.0029 & 0.1542 & 0.1280 & 0.4360 & 0.3085 & 2,785 \\
+ETTh2 & Clean plan & 10 & 0.2102 $\pm$ 0.0034 & 0.0825 & 0.1279 & 0.2925 & 0.1650 & 2,785 \\
+ETTh2 & Noisy plan & 10 & 0.2385 $\pm$ 0.0039 & 0.1112 & 0.1279 & 0.3491 & 0.2224 & 2,785 \\
+ETTh2 & 50\% delayed & 10 & 0.2455 $\pm$ 0.0029 & 0.1179 & 0.1279 & 0.3630 & 0.2359 & 2,785 \\
+ETTh2 & Shuffled & 10 & 0.2821 $\pm$ 0.0029 & 0.1544 & 0.1281 & 0.4362 & 0.3087 & 2,785 \\
+ETTh2 & Misleading & 10 & 0.4909 $\pm$ 0.0080 & 0.3626 & 0.1279 & 0.8538 & 0.7253 & 2,785 \\
+ETTh2 & Latent oracle & 10 & 0.1279 $\pm$ 0 & 0 & 0.1279 & 0.1279 & 0 & 2,785 \\
+ETTm1 & History & 10 & 0.1864 $\pm$ 0.0027 & 0.1545 & 0.0318 & 0.3410 & 0.3090 & 4,000 \\
+ETTm1 & Clean plan & 10 & 0.1148 $\pm$ 0.0044 & 0.0829 & 0.0318 & 0.1978 & 0.1659 & 4,000 \\
+ETTm1 & Noisy plan & 10 & 0.1434 $\pm$ 0.0045 & 0.1115 & 0.0318 & 0.2550 & 0.2231 & 4,000 \\
+ETTm1 & 50\% delayed & 10 & 0.1511 $\pm$ 0.0039 & 0.1194 & 0.0318 & 0.2705 & 0.2388 & 4,000 \\
+ETTm1 & Shuffled & 10 & 0.1865 $\pm$ 0.0027 & 0.1546 & 0.0319 & 0.3411 & 0.3091 & 4,000 \\
+ETTm1 & Misleading & 10 & 0.3986 $\pm$ 0.0068 & 0.3668 & 0.0318 & 0.7654 & 0.7337 & 4,000 \\
+ETTm1 & Latent oracle & 10 & 0.0318 $\pm$ 0 & 0 & 0.0318 & 0.0318 & 0 & 4,000 \\
+weather & History & 10 & 0.1601 $\pm$ 0.0033 & 0.1543 & 0.0059 & 0.3143 & 0.3085 & 4,000 \\
+weather & Clean plan & 10 & 0.0895 $\pm$ 0.0036 & 0.0837 & 0.0057 & 0.1732 & 0.1674 & 4,000 \\
+weather & Noisy plan & 10 & 0.1175 $\pm$ 0.0031 & 0.1118 & 0.0057 & 0.2293 & 0.2236 & 4,000 \\
+weather & 50\% delayed & 10 & 0.1257 $\pm$ 0.0027 & 0.1199 & 0.0057 & 0.2457 & 0.2398 & 4,000 \\
+weather & Shuffled & 10 & 0.1602 $\pm$ 0.0033 & 0.1544 & 0.0060 & 0.3144 & 0.3086 & 4,000 \\
+weather & Misleading & 10 & 0.3713 $\pm$ 0.0072 & 0.3655 & 0.0057 & 0.7369 & 0.7310 & 4,000 \\
+weather & Latent oracle & 10 & 0.0057 $\pm$ 0 & 0 & 0.0057 & 0.0057 & 0 & 4,000 \\
+\bottomrule
+\end{tabular}
+\end{table*}

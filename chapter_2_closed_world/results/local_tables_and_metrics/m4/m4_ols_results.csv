@@ -1,0 +1,2 @@
+seasonal_pattern,seq_len,pred_len,series_count,train_windows,mse,mae,smape,seconds,checkpoint
+Yearly,9,6,23000,398693,3423864.6995448866,900.523193442335,15.898203106889541,1.3624437919352204,checkpoints/m4/ols_m4_Yearly_s9.npz

@@ -1,0 +1,35 @@
+{
+  "data_root": "datasets",
+  "output_dir": "results_full",
+  "datasets": [
+    "ETTm1",
+    "weather",
+    "ETTh2"
+  ],
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "seq_len": 96,
+  "pred_len": 96,
+  "epochs": 18,
+  "patience": 4,
+  "min_delta": 1e-05,
+  "batch_size": 512,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "grad_clip": 1.0,
+  "max_train_windows": 12000,
+  "max_val_windows": 2000,
+  "max_test_windows": 4000,
+  "workers": 0,
+  "disable_amp": false,
+  "force": false,
+  "smoke": false,
+  "dataset": "weather",
+  "architecture": "mlp",
+  "capacity": 128,
+  "condition": "info100",
+  "seed": 1
+}

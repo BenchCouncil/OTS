@@ -1,0 +1,22 @@
+index,identifier,selected_for_reversal
+0,p (mbar),True
+1,T (degC),True
+2,Tpot (K),False
+3,Tdew (degC),False
+4,rh (%),False
+5,VPmax (mbar),False
+6,VPact (mbar),False
+7,VPdef (mbar),False
+8,sh (g/kg),False
+9,H2OC (mmol/mol),True
+10,rho (g/m**3),True
+11,wv (m/s),False
+12,max. wv (m/s),True
+13,wd (deg),False
+14,rain (mm),True
+15,raining (s),True
+16,SWDR (W/m�),False
+17,PAR (�mol/m�/s),False
+18,max. PAR (�mol/m�/s),True
+19,Tlog (degC),True
+20,OT,True

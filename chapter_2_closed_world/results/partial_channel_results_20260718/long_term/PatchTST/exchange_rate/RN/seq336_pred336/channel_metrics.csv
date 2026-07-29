@@ -1,0 +1,9 @@
+dataset,model,case,seq_len,pred_len,channel_index,channel_name,selected_for_reversal,reversed_train,reversed_eval,mse_normalized,mae_normalized,value_count
+exchange_rate,PatchTST,RN,336,336,0,0,True,True,False,0.575066089630127,0.6086251735687256,397152
+exchange_rate,PatchTST,RN,336,336,1,1,False,False,False,0.2636958062648773,0.4170745015144348,397152
+exchange_rate,PatchTST,RN,336,336,2,2,False,False,False,0.35406818985939026,0.4591856002807617,397152
+exchange_rate,PatchTST,RN,336,336,3,3,True,True,False,0.1907774806022644,0.3452480435371399,397152
+exchange_rate,PatchTST,RN,336,336,4,4,False,False,False,0.023926135152578354,0.1019977256655693,397152
+exchange_rate,PatchTST,RN,336,336,5,5,True,True,False,0.7862787246704102,0.7137390375137329,397152
+exchange_rate,PatchTST,RN,336,336,6,6,True,True,False,0.28739216923713684,0.3988066017627716,397152
+exchange_rate,PatchTST,RN,336,336,7,OT,False,False,False,0.42322221398353577,0.49875932931900024,397152

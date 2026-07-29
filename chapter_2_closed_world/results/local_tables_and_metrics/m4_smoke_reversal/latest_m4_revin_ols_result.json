@@ -1,0 +1,16 @@
+{
+  "case": "RR",
+  "model_name": "revin_ols",
+  "seasonal_pattern": "Yearly",
+  "seq_len": 9,
+  "pred_len": 6,
+  "train_reversed": true,
+  "test_reversed": true,
+  "series_count": 23000,
+  "train_windows": 398693,
+  "mse": 449699578.7310862,
+  "mae": 8496.515000577643,
+  "smape": 117.27084322542908,
+  "seconds": 4.58285512519069,
+  "checkpoint": "checkpoints/m4_smoke_reversal/revin_ols_m4_RR_Yearly_s9.npz"
+}

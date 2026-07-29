@@ -1,0 +1,19 @@
+{
+  "dataset": "illness",
+  "population_type": "channel",
+  "base_seed": 2021,
+  "dataset_seed": 4527364239079664562,
+  "selection_rule": "uniform_without_replacement_floor_half",
+  "population_size": 7,
+  "selected_count": 3,
+  "selected_indices": [
+    0,
+    2,
+    4
+  ],
+  "selected_ids": [
+    "% WEIGHTED ILI",
+    "AGE 0-4",
+    "ILITOTAL"
+  ]
+}

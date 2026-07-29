@@ -1,0 +1,19 @@
+{
+  "completed_unique_runs": 117,
+  "datasets": [
+    "ETTh2",
+    "ETTm1",
+    "weather"
+  ],
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "strictly_monotone_information_curves": 25,
+  "total_information_curves": 27,
+  "small_open_beats_large_history": 9,
+  "small_open_large_history_comparisons": 9,
+  "confirmatory_comparisons": 12,
+  "bonferroni_block_ci_excluding_zero": 12
+}

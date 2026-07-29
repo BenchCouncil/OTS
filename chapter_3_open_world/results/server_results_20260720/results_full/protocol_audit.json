@@ -1,0 +1,35 @@
+[
+  {
+    "dataset": "ETTm1",
+    "passed": true,
+    "pairs_checked": 32,
+    "pair_contracts_passed": 32,
+    "train_target_within_train": true,
+    "validation_target_after_train": true,
+    "validation_target_within_validation": true,
+    "test_target_after_validation": true,
+    "test_target_within_test": true
+  },
+  {
+    "dataset": "weather",
+    "passed": true,
+    "pairs_checked": 32,
+    "pair_contracts_passed": 32,
+    "train_target_within_train": true,
+    "validation_target_after_train": true,
+    "validation_target_within_validation": true,
+    "test_target_after_validation": true,
+    "test_target_within_test": true
+  },
+  {
+    "dataset": "ETTh2",
+    "passed": true,
+    "pairs_checked": 32,
+    "pair_contracts_passed": 32,
+    "train_target_within_train": true,
+    "validation_target_after_train": true,
+    "validation_target_within_validation": true,
+    "test_target_after_validation": true,
+    "test_target_within_test": true
+  }
+]

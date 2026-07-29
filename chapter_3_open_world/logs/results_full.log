@@ -1,0 +1,226 @@
+nohup: ignoring input
+[1/117] START ETTh2__gru64__info0__seed0
+[1/117] DONE  ETTh2__gru64__info0__seed0 mse=0.474943 seconds=13.2
+[2/117] START ETTh2__gru64__info0__seed1
+[2/117] DONE  ETTh2__gru64__info0__seed1 mse=0.499727 seconds=10.8
+[3/117] START ETTh2__gru64__info0__seed2
+[3/117] DONE  ETTh2__gru64__info0__seed2 mse=0.479555 seconds=10.9
+[4/117] START ETTh2__gru64__info100__seed0
+[4/117] DONE  ETTh2__gru64__info100__seed0 mse=0.260853 seconds=13.0
+[5/117] START ETTh2__gru64__info100__seed1
+[5/117] DONE  ETTh2__gru64__info100__seed1 mse=0.319387 seconds=12.9
+[6/117] START ETTh2__gru64__info100__seed2
+[6/117] DONE  ETTh2__gru64__info100__seed2 mse=0.283809 seconds=12.5
+[7/117] START ETTh2__mlp128__info0__seed0
+[7/117] DONE  ETTh2__mlp128__info0__seed0 mse=0.433141 seconds=7.8
+[8/117] START ETTh2__mlp128__info0__seed1
+[8/117] DONE  ETTh2__mlp128__info0__seed1 mse=0.479255 seconds=4.7
+[9/117] START ETTh2__mlp128__info0__seed2
+[9/117] DONE  ETTh2__mlp128__info0__seed2 mse=0.399994 seconds=6.3
+[10/117] START ETTh2__mlp128__info100__seed0
+[10/117] DONE  ETTh2__mlp128__info100__seed0 mse=0.247688 seconds=9.6
+[11/117] START ETTh2__mlp128__info100__seed1
+[11/117] DONE  ETTh2__mlp128__info100__seed1 mse=0.210000 seconds=12.8
+[12/117] START ETTh2__mlp128__info100__seed2
+[12/117] DONE  ETTh2__mlp128__info100__seed2 mse=0.336533 seconds=12.6
+[13/117] START ETTh2__mlp128__info50__seed0
+[13/117] DONE  ETTh2__mlp128__info50__seed0 mse=0.285115 seconds=9.3
+[14/117] START ETTh2__mlp128__info50__seed1
+[14/117] DONE  ETTh2__mlp128__info50__seed1 mse=0.307863 seconds=12.2
+[15/117] START ETTh2__mlp128__info50__seed2
+[15/117] DONE  ETTh2__mlp128__info50__seed2 mse=0.307999 seconds=11.5
+[16/117] START ETTh2__mlp128__placebo__seed0
+[16/117] DONE  ETTh2__mlp128__placebo__seed0 mse=0.489763 seconds=5.1
+[17/117] START ETTh2__mlp128__placebo__seed1
+[17/117] DONE  ETTh2__mlp128__placebo__seed1 mse=0.460834 seconds=4.7
+[18/117] START ETTh2__mlp128__placebo__seed2
+[18/117] DONE  ETTh2__mlp128__placebo__seed2 mse=0.526244 seconds=5.2
+[19/117] START ETTh2__mlp128__shuffled__seed0
+[19/117] DONE  ETTh2__mlp128__shuffled__seed0 mse=0.433178 seconds=10.0
+[20/117] START ETTh2__mlp128__shuffled__seed1
+[20/117] DONE  ETTh2__mlp128__shuffled__seed1 mse=0.474578 seconds=5.9
+[21/117] START ETTh2__mlp128__shuffled__seed2
+[21/117] DONE  ETTh2__mlp128__shuffled__seed2 mse=0.445364 seconds=10.8
+[22/117] START ETTh2__mlp32__info0__seed0
+[22/117] DONE  ETTh2__mlp32__info0__seed0 mse=0.439268 seconds=11.4
+[23/117] START ETTh2__mlp32__info0__seed1
+[23/117] DONE  ETTh2__mlp32__info0__seed1 mse=0.446512 seconds=10.6
+[24/117] START ETTh2__mlp32__info0__seed2
+[24/117] DONE  ETTh2__mlp32__info0__seed2 mse=0.418869 seconds=11.0
+[25/117] START ETTh2__mlp32__info100__seed0
+[25/117] DONE  ETTh2__mlp32__info100__seed0 mse=0.225028 seconds=12.8
+[26/117] START ETTh2__mlp32__info100__seed1
+[26/117] DONE  ETTh2__mlp32__info100__seed1 mse=0.219494 seconds=13.0
+[27/117] START ETTh2__mlp32__info100__seed2
+[27/117] DONE  ETTh2__mlp32__info100__seed2 mse=0.244531 seconds=13.1
+[28/117] START ETTh2__mlp32__info50__seed0
+[28/117] DONE  ETTh2__mlp32__info50__seed0 mse=0.355932 seconds=12.2
+[29/117] START ETTh2__mlp32__info50__seed1
+[29/117] DONE  ETTh2__mlp32__info50__seed1 mse=0.392684 seconds=11.7
+[30/117] START ETTh2__mlp32__info50__seed2
+[30/117] DONE  ETTh2__mlp32__info50__seed2 mse=0.362055 seconds=12.4
+[31/117] START ETTh2__mlp512__info0__seed0
+[31/117] DONE  ETTh2__mlp512__info0__seed0 mse=0.379035 seconds=4.6
+[32/117] START ETTh2__mlp512__info0__seed1
+[32/117] DONE  ETTh2__mlp512__info0__seed1 mse=0.471140 seconds=4.5
+[33/117] START ETTh2__mlp512__info0__seed2
+[33/117] DONE  ETTh2__mlp512__info0__seed2 mse=0.517981 seconds=3.1
+[34/117] START ETTh2__mlp512__info100__seed0
+[34/117] DONE  ETTh2__mlp512__info100__seed0 mse=0.176080 seconds=7.8
+[35/117] START ETTh2__mlp512__info100__seed1
+[35/117] DONE  ETTh2__mlp512__info100__seed1 mse=0.182074 seconds=7.6
+[36/117] START ETTh2__mlp512__info100__seed2
+[36/117] DONE  ETTh2__mlp512__info100__seed2 mse=0.193881 seconds=7.4
+[37/117] START ETTh2__mlp512__info50__seed0
+[37/117] DONE  ETTh2__mlp512__info50__seed0 mse=0.414797 seconds=6.8
+[38/117] START ETTh2__mlp512__info50__seed1
+[38/117] DONE  ETTh2__mlp512__info50__seed1 mse=0.321098 seconds=9.1
+[39/117] START ETTh2__mlp512__info50__seed2
+[39/117] DONE  ETTh2__mlp512__info50__seed2 mse=0.279201 seconds=5.7
+[40/117] START ETTm1__gru64__info0__seed0
+[40/117] DONE  ETTm1__gru64__info0__seed0 mse=0.282797 seconds=12.6
+[41/117] START ETTm1__gru64__info0__seed1
+[41/117] DONE  ETTm1__gru64__info0__seed1 mse=0.294806 seconds=13.1
+[42/117] START ETTm1__gru64__info0__seed2
+[42/117] DONE  ETTm1__gru64__info0__seed2 mse=0.282126 seconds=13.5
+[43/117] START ETTm1__gru64__info100__seed0
+[43/117] DONE  ETTm1__gru64__info100__seed0 mse=0.081804 seconds=15.6
+[44/117] START ETTm1__gru64__info100__seed1
+[44/117] DONE  ETTm1__gru64__info100__seed1 mse=0.096516 seconds=16.1
+[45/117] START ETTm1__gru64__info100__seed2
+[45/117] DONE  ETTm1__gru64__info100__seed2 mse=0.075031 seconds=15.3
+[46/117] START ETTm1__mlp128__info0__seed0
+[46/117] DONE  ETTm1__mlp128__info0__seed0 mse=0.307967 seconds=12.2
+[47/117] START ETTm1__mlp128__info0__seed1
+[47/117] DONE  ETTm1__mlp128__info0__seed1 mse=0.321562 seconds=9.1
+[48/117] START ETTm1__mlp128__info0__seed2
+[48/117] DONE  ETTm1__mlp128__info0__seed2 mse=0.297247 seconds=8.5
+[49/117] START ETTm1__mlp128__info100__seed0
+[49/117] DONE  ETTm1__mlp128__info100__seed0 mse=0.122174 seconds=15.9
+[50/117] START ETTm1__mlp128__info100__seed1
+[50/117] DONE  ETTm1__mlp128__info100__seed1 mse=0.080850 seconds=15.7
+[51/117] START ETTm1__mlp128__info100__seed2
+[51/117] DONE  ETTm1__mlp128__info100__seed2 mse=0.091317 seconds=16.4
+[52/117] START ETTm1__mlp128__info50__seed0
+[52/117] DONE  ETTm1__mlp128__info50__seed0 mse=0.210257 seconds=14.9
+[53/117] START ETTm1__mlp128__info50__seed1
+[53/117] DONE  ETTm1__mlp128__info50__seed1 mse=0.199838 seconds=14.9
+[54/117] START ETTm1__mlp128__info50__seed2
+[54/117] DONE  ETTm1__mlp128__info50__seed2 mse=0.197352 seconds=12.2
+[55/117] START ETTm1__mlp128__placebo__seed0
+[55/117] DONE  ETTm1__mlp128__placebo__seed0 mse=0.315962 seconds=5.3
+[56/117] START ETTm1__mlp128__placebo__seed1
+[56/117] DONE  ETTm1__mlp128__placebo__seed1 mse=0.281022 seconds=12.9
+[57/117] START ETTm1__mlp128__placebo__seed2
+[57/117] DONE  ETTm1__mlp128__placebo__seed2 mse=0.354877 seconds=4.9
+[58/117] START ETTm1__mlp128__shuffled__seed0
+[58/117] DONE  ETTm1__mlp128__shuffled__seed0 mse=0.319930 seconds=9.1
+[59/117] START ETTm1__mlp128__shuffled__seed1
+[59/117] DONE  ETTm1__mlp128__shuffled__seed1 mse=0.300794 seconds=14.1
+[60/117] START ETTm1__mlp128__shuffled__seed2
+[60/117] DONE  ETTm1__mlp128__shuffled__seed2 mse=0.319993 seconds=16.0
+[61/117] START ETTm1__mlp32__info0__seed0
+[61/117] DONE  ETTm1__mlp32__info0__seed0 mse=0.349123 seconds=13.1
+[62/117] START ETTm1__mlp32__info0__seed1
+[62/117] DONE  ETTm1__mlp32__info0__seed1 mse=0.343038 seconds=13.0
+[63/117] START ETTm1__mlp32__info0__seed2
+[63/117] DONE  ETTm1__mlp32__info0__seed2 mse=0.338330 seconds=13.4
+[64/117] START ETTm1__mlp32__info100__seed0
+[64/117] DONE  ETTm1__mlp32__info100__seed0 mse=0.114316 seconds=17.1
+[65/117] START ETTm1__mlp32__info100__seed1
+[65/117] DONE  ETTm1__mlp32__info100__seed1 mse=0.133459 seconds=15.7
+[66/117] START ETTm1__mlp32__info100__seed2
+[66/117] DONE  ETTm1__mlp32__info100__seed2 mse=0.106401 seconds=16.7
+[67/117] START ETTm1__mlp32__info50__seed0
+[67/117] DONE  ETTm1__mlp32__info50__seed0 mse=0.217003 seconds=14.9
+[68/117] START ETTm1__mlp32__info50__seed1
+[68/117] DONE  ETTm1__mlp32__info50__seed1 mse=0.242817 seconds=15.1
+[69/117] START ETTm1__mlp32__info50__seed2
+[69/117] DONE  ETTm1__mlp32__info50__seed2 mse=0.237948 seconds=15.0
+[70/117] START ETTm1__mlp512__info0__seed0
+[70/117] DONE  ETTm1__mlp512__info0__seed0 mse=0.313727 seconds=7.7
+[71/117] START ETTm1__mlp512__info0__seed1
+[71/117] DONE  ETTm1__mlp512__info0__seed1 mse=0.318331 seconds=7.5
+[72/117] START ETTm1__mlp512__info0__seed2
+[72/117] DONE  ETTm1__mlp512__info0__seed2 mse=0.290310 seconds=7.8
+[73/117] START ETTm1__mlp512__info100__seed0
+[73/117] DONE  ETTm1__mlp512__info100__seed0 mse=0.124566 seconds=16.0
+[74/117] START ETTm1__mlp512__info100__seed1
+[74/117] DONE  ETTm1__mlp512__info100__seed1 mse=0.069331 seconds=16.2
+[75/117] START ETTm1__mlp512__info100__seed2
+[75/117] DONE  ETTm1__mlp512__info100__seed2 mse=0.120722 seconds=16.0
+[76/117] START ETTm1__mlp512__info50__seed0
+[76/117] DONE  ETTm1__mlp512__info50__seed0 mse=0.198207 seconds=14.7
+[77/117] START ETTm1__mlp512__info50__seed1
+[77/117] DONE  ETTm1__mlp512__info50__seed1 mse=0.187111 seconds=11.0
+[78/117] START ETTm1__mlp512__info50__seed2
+[78/117] DONE  ETTm1__mlp512__info50__seed2 mse=0.262862 seconds=13.0
+[79/117] START weather__gru64__info0__seed0
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/multiprocessing/queues.py", line 264, in _feed
+  File "/root/miniconda3/lib/python3.12/multiprocessing/reduction.py", line 51, in dumps
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/multiprocessing/reductions.py", line 619, in reduce_storage
+  File "/root/miniconda3/lib/python3.12/multiprocessing/reduction.py", line 198, in DupFd
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/multiprocessing/resource_sharer.py", line 48, in __init__
+  File "/root/miniconda3/lib/python3.12/multiprocessing/resource_sharer.py", line 145, in _serve
+Exception in thread Thread-237 (_pin_memory_loop):
+OSError: [Errno 24] Too many open files
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    send(conn, destination_pid)
+  File "/root/miniconda3/lib/python3.12/multiprocessing/resource_sharer.py", line 50, in send
+    reduction.send_handle(conn, new_fd, pid)
+  File "/root/miniconda3/lib/python3.12/multiprocessing/reduction.py", line 183, in send_handle
+    with socket.fromfd(conn.fileno(), socket.AF_UNIX, socket.SOCK_STREAM) as s:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/socket.py", line 547, in fromfd
+    self.run()
+    nfd = dup(fd)
+          ^^^^^^^
+OSError: [Errno 24] Too many open files
+  File "/root/miniconda3/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/utils/data/_utils/pin_memory.py", line 61, in _pin_memory_loop
+    do_one_step()
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/utils/data/_utils/pin_memory.py", line 37, in do_one_step
+    r = in_queue.get(timeout=MP_STATUS_CHECK_INTERVAL)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/multiprocessing/queues.py", line 122, in get
+    return _ForkingPickler.loads(res)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/multiprocessing/reductions.py", line 541, in rebuild_storage_fd
+    fd = df.detach()
+         ^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/multiprocessing/resource_sharer.py", line 58, in detach
+    return reduction.recv_handle(conn)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/multiprocessing/reduction.py", line 189, in recv_handle
+    return recvfds(s, 1)[0]
+           ^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/multiprocessing/reduction.py", line 159, in recvfds
+    raise EOFError
+EOFError
+Traceback (most recent call last):
+  File "/root/autodl-tmp/open_world_project/open_world_experiments/run_paired_worlds.py", line 788, in <module>
+    main()
+  File "/root/autodl-tmp/open_world_project/open_world_experiments/run_paired_worlds.py", line 766, in main
+    result = train_one(spec, bundles[spec.dataset], args, args.output_dir, device)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/open_world_project/open_world_experiments/run_paired_worlds.py", line 491, in train_one
+    test_metrics, pair_frame = evaluate(model, loaders["test"], device, use_amp)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 120, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/autodl-tmp/open_world_project/open_world_experiments/run_paired_worlds.py", line 355, in evaluate
+    for history, z, target, start, branch in loader:
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 734, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1492, in _next_data
+    idx, data = self._get_data()
+                ^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1449, in _get_data
+    raise RuntimeError("Pin memory thread exited unexpectedly")
+RuntimeError: Pin memory thread exited unexpectedly

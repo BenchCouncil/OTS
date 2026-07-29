@@ -1,0 +1,15 @@
+{
+  "dataset": "illness",
+  "model": "TimesNet",
+  "case": "RR",
+  "seq_len": 336,
+  "pred_len": 96,
+  "normalization": "TSLib StandardScaler fitted on the original training split",
+  "metric_scale": "normalized",
+  "reversal_mask_path": "/root/autodl-tmp/partial_channel_results/masks/illness.json",
+  "selected_count": 3,
+  "channel_count": 7,
+  "partial_reversal_timestamps": "kept in original chronological order",
+  "aggregate_mse_normalized": 2.9971752166748047,
+  "aggregate_mae_normalized": 1.2960848808288574
+}

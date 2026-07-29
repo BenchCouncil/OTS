@@ -1,0 +1,2 @@
+case,model_name,seasonal_pattern,seq_len,pred_len,train_reversed,test_reversed,series_count,train_windows,mse,mae,smape,seconds,checkpoint
+RR,revin_ols,Yearly,9,6,True,True,23000,398693,449699578.7310862,8496.515000577643,117.27084322542908,4.58285512519069,checkpoints/m4_smoke_reversal/revin_ols_m4_RR_Yearly_s9.npz

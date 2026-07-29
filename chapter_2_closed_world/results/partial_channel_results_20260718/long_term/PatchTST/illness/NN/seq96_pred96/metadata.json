@@ -1,0 +1,15 @@
+{
+  "dataset": "illness",
+  "model": "PatchTST",
+  "case": "NN",
+  "seq_len": 96,
+  "pred_len": 96,
+  "normalization": "TSLib StandardScaler fitted on the original training split",
+  "metric_scale": "normalized",
+  "reversal_mask_path": "/root/autodl-tmp/partial_channel_results/masks/illness.json",
+  "selected_count": 3,
+  "channel_count": 7,
+  "partial_reversal_timestamps": "kept in original chronological order",
+  "aggregate_mse_normalized": 2.2073988914489746,
+  "aggregate_mae_normalized": 0.9998296499252319
+}

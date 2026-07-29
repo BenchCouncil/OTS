@@ -1,0 +1,28 @@
+
+\begin{table*}[t]
+\centering
+\caption{All 15 deterministic same-block control results on real data. Risk ratios are relative to the Forward condition within the same dataset.}
+\label{tab:same-block-all}
+\small
+\begin{tabular}{@{}llrrrrr@{}}
+\toprule
+Dataset & Condition & Ridge $\alpha$ & Validation MSE & Test MSE & Test windows & Risk ratio\\
+\midrule
+ETTh2 & Forward & 0.1 & 0.1755 & 0.1279 & 2,785 & 1.000 \\
+ETTh2 & Same-block mirror & 0.1 & 0.1796 & 0.1228 & 2,785 & 0.960 \\
+ETTh2 & Block swap & 0.1 & 0.1796 & 0.1228 & 2,785 & 0.960 \\
+ETTh2 & Input-only reverse & 0.1 & 0.1755 & 0.1279 & 2,785 & 1.000 \\
+ETTh2 & Target-only reverse & 0.1 & 0.1755 & 0.1279 & 2,785 & 1.000 \\
+ETTm1 & Forward & 10.0 & 0.0545 & 0.0318 & 4,000 & 1.000 \\
+ETTm1 & Same-block mirror & 10.0 & 0.0540 & 0.0308 & 4,000 & 0.967 \\
+ETTm1 & Block swap & 10.0 & 0.0540 & 0.0308 & 4,000 & 0.967 \\
+ETTm1 & Input-only reverse & 10.0 & 0.0545 & 0.0318 & 4,000 & 1.000 \\
+ETTm1 & Target-only reverse & 10.0 & 0.0545 & 0.0318 & 4,000 & 1.000 \\
+weather & Forward & 1.0 & 0.0033 & 0.0057 & 4,000 & 1.000 \\
+weather & Same-block mirror & 1.0 & 0.0033 & 0.0057 & 4,000 & 1.001 \\
+weather & Block swap & 1.0 & 0.0033 & 0.0057 & 4,000 & 1.001 \\
+weather & Input-only reverse & 1.0 & 0.0033 & 0.0057 & 4,000 & 1.000 \\
+weather & Target-only reverse & 1.0 & 0.0033 & 0.0057 & 4,000 & 1.000 \\
+\bottomrule
+\end{tabular}
+\end{table*}

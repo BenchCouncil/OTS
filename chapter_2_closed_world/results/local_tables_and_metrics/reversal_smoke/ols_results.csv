@@ -1,0 +1,4 @@
+case,dataset,seq_len,pred_len,features,train_reversed,test_reversed,channels,train_windows,test_windows,mse,mae,dlinear_mse,dlinear_mae,mse_ratio_vs_dlinear,mae_ratio_vs_dlinear,seconds,checkpoint
+RN,exchange_rate,96,96,M,True,False,8,5120,1422,0.08250763283188471,0.20677807579468122,0.089,0.208,0.9270520542908395,0.9941253643975059,0.032234541955403984,checkpoints/reversal_smoke/ols_RN_exchange_rate_s96_p96_M.npz
+NR,exchange_rate,96,96,M,False,True,8,5120,1422,0.10071517747392542,0.22045021270854476,0.089,0.208,1.1316312075721957,1.0598567918680037,0.023299750057049096,checkpoints/reversal_smoke/ols_NR_exchange_rate_s96_p96_M.npz
+RR,exchange_rate,96,96,M,True,True,8,5120,1422,0.10950296448606946,0.23180327533127082,0.089,0.208,1.2303703874839265,1.114438823708033,0.024597084033302963,checkpoints/reversal_smoke/ols_RR_exchange_rate_s96_p96_M.npz

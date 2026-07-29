@@ -1,0 +1,8 @@
+index,identifier,selected_for_reversal
+0,% WEIGHTED ILI,True
+1,%UNWEIGHTED ILI,False
+2,AGE 0-4,True
+3,AGE 5-24,False
+4,ILITOTAL,True
+5,NUM. OF PROVIDERS,False
+6,OT,False

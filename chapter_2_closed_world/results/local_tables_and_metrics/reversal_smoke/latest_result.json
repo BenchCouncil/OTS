@@ -1,0 +1,20 @@
+{
+  "case": "RR",
+  "dataset": "exchange_rate",
+  "seq_len": 96,
+  "pred_len": 96,
+  "features": "M",
+  "train_reversed": true,
+  "test_reversed": true,
+  "channels": 8,
+  "train_windows": 5120,
+  "test_windows": 1422,
+  "mse": 0.10950296448606946,
+  "mae": 0.23180327533127082,
+  "dlinear_mse": 0.089,
+  "dlinear_mae": 0.208,
+  "mse_ratio_vs_dlinear": 1.2303703874839265,
+  "mae_ratio_vs_dlinear": 1.114438823708033,
+  "seconds": 0.024597084033302963,
+  "checkpoint": "checkpoints/reversal_smoke/ols_RR_exchange_rate_s96_p96_M.npz"
+}

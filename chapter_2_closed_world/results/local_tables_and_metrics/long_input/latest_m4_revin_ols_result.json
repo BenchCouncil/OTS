@@ -1,0 +1,20 @@
+{
+  "case": "RR",
+  "model_name": "revin_ols",
+  "seasonal_pattern": "Hourly",
+  "seq_len": 480,
+  "pred_len": 48,
+  "train_reversed": true,
+  "test_reversed": true,
+  "series_count": 414,
+  "train_windows": 135322,
+  "mse": 1592589.6332740528,
+  "mae": 290.8852550152741,
+  "smape": 12.920827031691697,
+  "mase": 1.0967239460354217,
+  "owa": 0.8430940139011137,
+  "naive_smape": 14.83219803183893,
+  "naive_mase": 1.345583799200641,
+  "seconds": 3.5426379579585046,
+  "checkpoint": "checkpoints/long_input/revin_ols_m4_RR_Hourly_s480.npz"
+}

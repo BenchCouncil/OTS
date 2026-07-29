@@ -1,0 +1,8 @@
+index,identifier,selected_for_reversal
+0,HUFL,False
+1,HULL,False
+2,MUFL,False
+3,MULL,True
+4,LUFL,True
+5,LULL,False
+6,OT,True

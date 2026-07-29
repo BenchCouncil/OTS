@@ -1,0 +1,8 @@
+dataset,model,case,seq_len,pred_len,channel_index,channel_name,selected_for_reversal,reversed_train,reversed_eval,mse_normalized,mae_normalized,value_count
+ETTh1,iTransformer,RN,336,96,0,HUFL,False,False,False,0.8002829551696777,0.6251800656318665,267360
+ETTh1,iTransformer,RN,336,96,1,HULL,False,False,False,0.220220148563385,0.3535648286342621,267360
+ETTh1,iTransformer,RN,336,96,2,MUFL,False,False,False,0.8230602741241455,0.6212206482887268,267360
+ETTh1,iTransformer,RN,336,96,3,MULL,True,True,False,0.1793414056301117,0.31091758608818054,267360
+ETTh1,iTransformer,RN,336,96,4,LUFL,True,True,False,0.5431125164031982,0.5244897603988647,267360
+ETTh1,iTransformer,RN,336,96,5,LULL,False,False,False,0.12295036017894745,0.26897555589675903,267360
+ETTh1,iTransformer,RN,336,96,6,OT,True,True,False,0.05305665731430054,0.1748904585838318,267360
